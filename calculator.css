@@ -1,0 +1,63 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 960px;
+	background: white;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+.case {
+	width: 329px;
+	background: white;
+	margin: 80px auto;
+	padding-top: 12px;
+	padding-right: 3px;
+	padding-left: 3px;
+	border: 1px solid #B2B2B2;
+	overflow: auto;
+}
+
+#display {
+	width: 321p	x;
+	height: 60px;
+	margin: 0;
+	padding: 0 3px;
+	border: 1px solid buttonface;
+	font-family: Arial, serif;
+	font-size: 50px;
+	align-text-align: right;
+	overflow: auto;
+	word-wrap: break-word;
+}
+
+#keypad {
+	margin: 0 auto;
+}
+
+.toprow {
+	margin-top: 3px;
+}
+
+button {
+	width: 80px;
+	height: 60px;
+	margin: 0;
+	display: block;
+	float: left;
+	margin-left: 3px;
+	margin-bottom: 3px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.col1 {
+	margin-left: 0;
+}
+
+.col4 {
+	margin-right: 0px;
+}
